@@ -1,0 +1,30 @@
+public class Description { public static void main(String[] args) { BibleBook book1 = new BibleBook("The Gospel of Matthew", 28, "Jesus's life, death, and resurrection"); BibleBook book2 = new BibleBook("The Gospel of Mark", 16, "The gospel of Jesus Christ and his earthly ministry"); BibleBook book3 = new BibleBook("The Gospel of Luke", 24, "Jesus's life through eyewitness accounts"); BibleBook book4 = new BibleBook("The Gospel of John", 21, "Jesus's signs and miracles though stories"); BibleBook book5 = new BibleBook("Acts", 28, "Jesus's return to the Father and the Gospel spread thoughout the world"); BibleBook book6 = new BibleBook("Romans", 16, "Paul summarizes the Gospels through a letter to the churches in Rome"); BibleBook book7 = new BibleBook("1 Corinthians", 16, "Paul writes a disciplinary letter to the broken churches"); BibleBook book8 = new BibleBook("2 Corinthians", 13, "Paul writes a letter of reconciliation to the Church"); BibleBook book9 = new BibleBook("Galatians", 6, "Paul writes a letter to the Golatians on salvation"); BibleBook book10 = new BibleBook("Ephesians", 6, "Paul writes a letter to the church of Ephesus about how to walk in peace, grace, and love"); BibleBook book11 = new BibleBook("Philippians", 4, "Encouragment letter to the church of Philippi on the joy of Christ"); BibleBook book12 = new BibleBook("Colassians", 4, "Paul writes a letter to the church of Colossae on how to walk in Christ"); BibleBook book13 = new BibleBook("1 Thessalonians", 5, "Paul encourages the church of Thessalonica on faith, hope, and love"); BibleBook book14 = new BibleBook("2 Thessalonians", 3, "Paul instructs the Thessalonians on how to stand firm until the coming of Christ"); BibleBook book15 = new BibleBook("1 Timothy", 6, "Paul instructs Timothy on how to lead the church"); BibleBook book16 = new BibleBook("2 Timothy", 4, "Paul is at the end of his life and encourages Timothy to continue spreading the word"); BibleBook book17 = new BibleBook("Titus", 3, "Paul advises Titus on how to lead new churches"); BibleBook book18 = new BibleBook("Philemon", 1, "Paul instructs Philemon on how he should accept his runaway slave as a brother and not a slave"); BibleBook book19 = new BibleBook("Hebrews", 13, "Letter encouraging Christians to cling to Christ despite persecution"); BibleBook book20 = new BibleBook("James", 5, "Letter telling Christians on how to act in a way that demonstrates their faith through action"); BibleBook book21 = new BibleBook("1 Peter", 5, "Peter writes to Christians who are being persecuted and encourages them to tell the truth of the word"); BibleBook book22 = new BibleBook("2 Peter", 3 , "Paul writes a letter to the Christians reminding them of the truth of Jesus and warning them of false teachers"); BibleBook book23 = new BibleBook("1 John", 5, "John writes a letter to Christians about keeping Jesus's commands of loving one another"); BibleBook book24 = new BibleBook("2 John", 1, "A brief letter about walking in truth, love, and obedience"); BibleBook book25 = new BibleBook("3 John", 1, "A brief letter about Christian fellowship"); BibleBook book26 = new BibleBook("Jude", 1, "A letter to encourage Christians to contend to their faith"); BibleBook book27 = new BibleBook("Revelation", 22, "John sees visions of things that have, things that are, and things that are yet to come");
+
+book1.display();
+book2.display();
+book3.display();
+book4.display();
+book5.display();
+book6.display();
+book7.display();
+book8.display();
+book9.display();
+book10.display();
+book11.display();
+book12.display();
+book13.display();
+book14.display();
+book15.display();
+book16.display();
+book17.display();
+book18.display();
+book19.display();
+book20.display();
+book21.display();
+book22.display();
+book23.display();
+book24.display();
+book25.display();
+book26.display();
+book27.display();
+} }
